@@ -19,13 +19,13 @@ body{
 #tv{
     display:flex;
     justify-content: center;
-    margin-top:2%;
+    margin-top:1%;
     width: 900px;
     height: 530px;
-    background: rgba(235, 136, 235, 0.7);
+    background: rgba(235, 136, 235, 4);
     border-radius: 50% / 10%;
     color: white;
-    text-align: center;
+    border: #ffffff;
     text-indent: .1em;
   }
   /* #tv:before {
