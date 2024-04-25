@@ -1,4 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Croissant+One&family=Jacquarda+Bastarda+9&family=Noto+Color+Emoji&family=Pacifico&family=Rampart+One&family=Rubik+Mono+One&display=swap');
+
+
 body{
     background-image:url("/media/images/triviaBackground.jpg");
+    font-family: Rubik Mono One, sans-serif;
+}
 
+#triviaTitle{
+    display: flex;
+    justify-content: center;
+    color:aliceblue;
+    -webkit-text-stroke: 2.5px rgb(235, 136, 235); /* WebKit/Blink browsers */
+    font-size: 90px;
+    margin-top:15px;
 }
