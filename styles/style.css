@@ -14,3 +14,27 @@ body{
     font-size: 90px;
     margin-top:25px;
 }
+
+
+#tv{
+    display:flex;
+    justify-content: center;
+    margin-top:2%;
+    width: 900px;
+    height: 530px;
+    background: rgba(235, 136, 235, 0.7);
+    border-radius: 50% / 10%;
+    color: white;
+    text-align: center;
+    text-indent: .1em;
+  }
+  /* #tv:before {
+    content: '';
+    position: absolute;
+    top: 10%;
+    bottom: 10%;
+    right: -5%;
+    left: -5%;
+    background: inherit;
+    border-radius: 5% / 50%;
+  } */
