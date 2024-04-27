@@ -28,13 +28,13 @@ body{
 #tv{
     display:flex;
     justify-content: center;
-    border: 7px solid #32303B; 
+    border: 7px solid #ad6d03; 
     margin-top:1%;
     width: 900px;
     height: 530px;
     background: rgba(235, 136, 235, 4);
     border-radius: 50% / 10%;
-    background-color: #aba8b8;
+    background-color: #fee8c4;
     text-indent: .1em;
   }
 
@@ -43,7 +43,7 @@ body{
     margin-top: 10%;
     margin-left:10%;
     border-radius: 50% / 10%;
-    border: 7px solid #32303B; 
+    border: 7px solid #ad6d03; 
     width: 580px;
     height: 400px;
     background: 
@@ -56,15 +56,15 @@ body{
         100% {background-position: 50% 0, 60% 50%}
       }
       .column {
-        margin: 0 10px; /* Adjust this value to control the spacing between buttons */
+        /* margin-right: -40px */
       }
       
       button {
         width: 100px; /* Adjust the width of the buttons */
         height: 100px; /* Ensure width and height are equal for a perfect circle */
         border-radius: 50%; /* This makes the button circular */
-        border: none; /* Remove default button border */
+        border: #32303B; /* Remove default button border */
         background-color: #ccc; /* Background color of the buttons */
         color: #fff; /* Text color of the buttons */
-        font-size: 16px; /* Adjust font size as needed */
+        font-size: 16px; 
       }
