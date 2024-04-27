@@ -11,8 +11,17 @@ body{
     justify-content: center;
     color:aliceblue;
     -webkit-text-stroke: 2.5px rgb(235, 136, 235); /* WebKit/Blink browsers */
-    font-size: 90px;
-    margin-top:25px;
+    font-size: 89px;
+    margin-top: -05px;
+}
+
+#pickCategory{
+    display: flex;
+    justify-content: center;
+    color:aliceblue;
+    -webkit-text-stroke: 2.5px rgb(235, 136, 235); /* WebKit/Blink browsers */
+    font-size: 50px;
+    margin-top:-50px;
 }
 
 
@@ -30,7 +39,8 @@ body{
   }
 
   #screenBorder{
-    margin-top: 7%;
+    
+    margin-top: 10%;
     border-radius: 50% / 10%;
     border: 7px solid #ffffff; 
     width: 700px;
