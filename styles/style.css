@@ -29,8 +29,8 @@ body{
   justify-content: center;
   color:#fef1da;
   -webkit-text-stroke: 2.5px #FBA007; /* WebKit/Blink browsers */
-  font-size: 23px;
-  margin-top: 30px;
+  font-size: 20px;
+  /* margin-top: 30px; */
 }
 
 
