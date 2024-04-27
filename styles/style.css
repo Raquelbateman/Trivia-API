@@ -9,8 +9,8 @@ body{
 #triviaTitle{
     display: flex;
     justify-content: center;
-    color:aliceblue;
-    -webkit-text-stroke: 2.5px rgb(235, 136, 235); /* WebKit/Blink browsers */
+    color:#fef1da;
+    -webkit-text-stroke: 2.5px #FBA007; 
     font-size: 89px;
     margin-top: -05px;
 }
@@ -18,8 +18,8 @@ body{
 #pickCategory{
     display: flex;
     justify-content: center;
-    color:aliceblue;
-    -webkit-text-stroke: 2.5px rgb(235, 136, 235); /* WebKit/Blink browsers */
+    color:#fef1da;
+    -webkit-text-stroke: 2.5px #FBA007; /* WebKit/Blink browsers */
     font-size: 50px;
     margin-top:-50px;
 }
@@ -28,7 +28,7 @@ body{
 #tv{
     display:flex;
     justify-content: center;
-    border: 7px solid #ffffff; 
+    border: 7px solid #FBA007; 
     margin-top:1%;
     width: 900px;
     height: 530px;
@@ -43,7 +43,7 @@ body{
     margin-top: 10%;
     margin-left:-13%;
     border-radius: 50% / 10%;
-    border: 7px solid #ffffff; 
+    border: 7px solid #FBA007; 
     width: 580px;
     height: 400px;
     background: 
