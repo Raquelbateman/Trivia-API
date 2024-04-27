@@ -24,6 +24,15 @@ body{
     margin-top: 150px;
 }
 
+#answerBtn{
+  display: flex;
+  justify-content: center;
+  color:#fef1da;
+  -webkit-text-stroke: 2.5px #FBA007; /* WebKit/Blink browsers */
+  font-size: 23px;
+  margin-top: 30px;
+}
+
 
 #tv{
     display:flex;
