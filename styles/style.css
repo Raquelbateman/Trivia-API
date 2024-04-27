@@ -41,10 +41,11 @@ body{
   #screenBorder{
     
     margin-top: 10%;
+    margin-left:-13%;
     border-radius: 50% / 10%;
     border: 7px solid #ffffff; 
-    width: 700px;
-    height: 370px;
+    width: 580px;
+    height: 400px;
     background: 
     repeating-radial-gradient(#000 0 0.0001%,#fff 0 0.0002%) 50% 0/2500px 2500px,
     repeating-conic-gradient(#000 0 0.0001%,#fff 0 0.0002%) 60% 60%/2500px 2500px;
