@@ -20,8 +20,8 @@ body{
     justify-content: center;
     color:#fef1da;
     -webkit-text-stroke: 2.5px #FBA007; /* WebKit/Blink browsers */
-    font-size: 50px;
-    margin-top:-50px;
+    font-size: 33px;
+    margin-top: 150px;
 }
 
 
@@ -61,9 +61,9 @@ body{
         height: 115px; 
         border-radius: 50%;
         border: #32303B; 
-        background-color: purple;
+        background-color: #ffecfc;
         border: 3px solid #ad6d03; 
-        color: #fef1da;
+        color: #FBA007;
         font-size: 16px; 
         margin-left:150px;
         margin-top: 340px;
