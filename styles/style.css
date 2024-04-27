@@ -20,8 +20,8 @@ body{
     justify-content: center;
     color:#fef1da;
     -webkit-text-stroke: 2.5px #FBA007; /* WebKit/Blink browsers */
-    font-size: 33px;
-    margin-top: 150px;
+    font-size: 20px;
+    margin-top: 100px;
 }
 
 #answerBtn{
