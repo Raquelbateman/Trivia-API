@@ -1,15 +1,20 @@
 let pickCategory = document.getElementById("pickCategory");
 
-let gadgetBtn = document.getElementById("gadgetBtn").addEventListener("click", function(){
-    getGadget();
-});
+let gadgetBtn = document.getElementById("gadgetBtn");
 
-let musicBtn = document.getElementById("musicBtn").addEventListener("click", function(){
+let musicBtn = document.getElementById("musicBtn");
+
+let gameBtn = document.getElementById("gameBtn");
+
+gadgetBtn.addEventListener("click", function(){
+    getGadget();
+})
+musicBtn.addEventListener("click", function(){
     getMusic();
-});
-let gameBtn = document.getElementById("gameBtn").addEventListener("click", function(){
+})
+gameBtn.addEventListener("click", function(){
     getGames();
-});
+})
 
 async function getGadget(){
     let apiResponse = await fetch("https://opentdb.com/api.php?amount=1&category=9&difficulty=medium&type=boolean").then((Response) => Response.json());
