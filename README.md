@@ -6,4 +6,4 @@
 
  // Be able to pull a random Trivia Question and Answer from this websites api: link: https://opentdb.com/api_config.php and add a way for the User to choose at least from 3 Categories.
 
-// Peer Reviewed By:
+// Peer Reviewed By: Aaron Perez - Super nice theme with the tv screenn and tv noobs as buttons, reminds me of a real game show. Questions display as required on button click and the correct answer displays. Great work!!!
