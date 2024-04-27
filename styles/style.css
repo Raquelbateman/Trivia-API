@@ -11,7 +11,7 @@ body{
     justify-content: center;
     color:#fef1da;
     -webkit-text-stroke: 2.5px #FBA007; 
-    font-size: 89px;
+    font-size: 93px;
     margin-top: -05px;
 }
 
@@ -20,11 +20,11 @@ body{
     justify-content: center;
     color:#fef1da;
     -webkit-text-stroke: 2.5px #FBA007; /* WebKit/Blink browsers */
-    font-size: 20px;
-    margin-top: 100px;
+    font-size: 25px;
+    margin-top: 70px;
 }
 
-#answerBtn{
+#answerPlace{
   display: flex;
   justify-content: center;
   color:#fef1da;
