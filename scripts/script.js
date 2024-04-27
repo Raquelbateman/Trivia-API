@@ -1,12 +1,12 @@
 let gadgetBtn = document.getElementById("gadgetBtn").addEventListener("click", function(){
-    getGk();
+    getGadget();
 });
 
 let musicBtn = document.getElementById("musicBtn").addEventListener("click", function(){
-    getHistory();
+    getMusic();
 });
 let gameBtn = document.getElementById("gameBtn").addEventListener("click", function(){
-    getGame();
+    getGames();
 });
 
 async function getGadget(){
